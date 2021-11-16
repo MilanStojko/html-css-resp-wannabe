@@ -77,12 +77,10 @@ img {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    width: 100%;
   }
   .row{
     width: 100%;
     padding: 0 25px 0 25px;
-    margin: 10px;
   }
   #lezioni .row>.left,
   #lezioni .row>.right,
@@ -98,10 +96,10 @@ img {
     background-color: #F2F2CD;
   }
   img{
-    height: 200px;
+    height: 100px;
   }
   .row img{
-    height: 200px;
+    height: 100px;
     padding: 20px;
   }
 }
@@ -110,12 +108,10 @@ img {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    width: 100%;
   }
   .row{
     width: 100%;
     padding: 0 25px 0 25px;
-    margin: 10px;
   }
   #lezioni .row>.left,
   #lezioni .row>.right,
@@ -131,10 +127,10 @@ img {
     background-color: #F2F2CD;
   }
   img{
-    height: 400px;
+    height: 200px;
   }
   .row img{
-    height: 400px;
+    height: 200px;
     padding: 20px;
   }
 }
